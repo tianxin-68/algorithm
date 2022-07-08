@@ -42,6 +42,7 @@ public class TheKth {
             return findKth(a, start, pos - 1, K);
         } else {
             return findKth(a, pos + 1, end, K);
+
         }
     }
 

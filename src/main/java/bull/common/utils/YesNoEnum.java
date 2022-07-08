@@ -11,7 +11,6 @@ public enum YesNoEnum {
     ;
     public final Integer code;
     public final String description;
-
     private static class Meta {
         private final static HashMap<Integer, YesNoEnum> codeMap;
         private final static HashMap<String, YesNoEnum> descriptionMap;
