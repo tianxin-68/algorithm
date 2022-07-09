@@ -1,4 +1,4 @@
-package bull.syntax;
+package bull.syntax.generic;
 
 /**
  * @author: tianxin068

@@ -1,4 +1,4 @@
-package bull.syntax;
+package bull.syntax.generic;
 
 /**
  * 泛型分为两步：（1）声明泛型 （2）使用泛型
