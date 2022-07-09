@@ -26,7 +26,7 @@ public class QuickSort {
         printFunc.accept(array);
     }
 
-    private static int[] init(int length) {
+    public static int[] init(int length) {
         int[] array = new int[length];
         Random random = new Random();
         for (int i = 0; i < length; i++) {
